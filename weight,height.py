@@ -1,5 +1,5 @@
-weight=42
+weight=50
 print(weight)
-height=112
+height=142
 print(height)
 
